@@ -1,0 +1,75 @@
+---
+title: "Models"
+author: "Eshta Bhardwaj"
+thanks: "Code and data available at: https://github.com/eshtab/week11_models"
+date: "March 27 2023"
+abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+number-sections: true
+format: 
+  pdf:
+    fig-pos: 'H' #this  makes sure that figures are placed directly underneath code
+bibliography: "references.bib"
+---
+
+
+
+```{r}
+#| include: FALSE
+#| warning: FALSE
+#| message: FALSE
+
+#### Workspace set-up ####
+
+library(tidyverse)
+library(janitor)
+library(modelsummary)
+library(lubridate)
+
+```
+
+# Introduction
+
+
+# Data Collection 
+
+## Overview
+
+## Survey Description
+
+## Population
+
+## Frame
+
+## Stratification
+
+## Sample
+
+## Non-response and Imputation
+
+## Survey Design
+
+## Bias
+
+# Data Description
+
+## Overview
+
+## Variables of Interest
+
+# Results
+
+# Discussion
+
+# Conclusion
+
+\newpage
+
+\appendix
+
+# Appendix {.unnumbered}
+
+# Additional details
+
+\newpage
+
+# References
